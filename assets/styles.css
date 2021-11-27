@@ -50,7 +50,10 @@ html {
 /*forside slut*/
 
 /*boderstart*/
-
+.boder {
+    background-color: rebeccapurple;
+    height: 200px;
+}
 
 
 
