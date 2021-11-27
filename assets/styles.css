@@ -30,7 +30,10 @@ html {
 
 
 /*nav start*/
-
+nav {
+    color: aqua;
+    height: 50px;
+}
 
 
 
